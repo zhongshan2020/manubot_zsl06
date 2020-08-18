@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-07-26'
+date-meta: '2020-08-18'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Manuscript Title" />
 
-  <meta name="dc.date" content="2020-07-26" />
+  <meta name="dc.date" content="2020-08-18" />
 
-  <meta name="citation_publication_date" content="2020-07-26" />
+  <meta name="citation_publication_date" content="2020-08-18" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://zhongshan2020.github.io/manubot_zsl06/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://zhongshan2020.github.io/manubot_zsl06/v/b6b95ab93cd1e869ec01f73fb41c89926bd2eb4b/" />
+  <link rel="alternate" type="text/html" href="https://zhongshan2020.github.io/manubot_zsl06/v/e759f2f9b2057818d35aeee7c4f583513b355610/" />
 
-  <meta name="manubot_html_url_versioned" content="https://zhongshan2020.github.io/manubot_zsl06/v/b6b95ab93cd1e869ec01f73fb41c89926bd2eb4b/" />
+  <meta name="manubot_html_url_versioned" content="https://zhongshan2020.github.io/manubot_zsl06/v/e759f2f9b2057818d35aeee7c4f583513b355610/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://zhongshan2020.github.io/manubot_zsl06/v/b6b95ab93cd1e869ec01f73fb41c89926bd2eb4b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://zhongshan2020.github.io/manubot_zsl06/v/e759f2f9b2057818d35aeee7c4f583513b355610/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://zhongshan2020.github.io/manubot_zsl06/v/b6b95ab93cd1e869ec01f73fb41c89926bd2eb4b/))
+([permalink](https://zhongshan2020.github.io/manubot_zsl06/v/e759f2f9b2057818d35aeee7c4f583513b355610/))
 was automatically generated
-from [zhongshan2020/manubot_zsl06@b6b95ab](https://github.com/zhongshan2020/manubot_zsl06/tree/b6b95ab93cd1e869ec01f73fb41c89926bd2eb4b)
-on July 26, 2020.
+from [zhongshan2020/manubot_zsl06@e759f2f](https://github.com/zhongshan2020/manubot_zsl06/tree/e759f2f9b2057818d35aeee7c4f583513b355610)
+on August 18, 2020.
 </em></small>
 
 ## Authors
@@ -138,7 +138,7 @@ on July 26, 2020.
 
 ## Abstract {.page_break_before}
 add by ZSL
-
+add by ZSL again!
 
 
 ## References {.page_break_before}
